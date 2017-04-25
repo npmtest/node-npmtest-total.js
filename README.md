@@ -1,4 +1,7 @@
-# test coverage for  [total.js (v2.4.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-total.js.svg)](https://travis-ci.org/npmtest/node-npmtest-total.js)
+# npmtest-total.js
+
+#### basic test coverage for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-total.js.svg)](https://travis-ci.org/npmtest/node-npmtest-total.js)
+
 #### Web framework for Node.js
 
 [![NPM](https://nodei.co/npm/total.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/total.js)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-total.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-total.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-total.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-total.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-total.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-total.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-total.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-total.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-total.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-total.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-total.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-total.js/build/coverage.html/index.html)
 
@@ -97,16 +100,17 @@
         "test": "test"
     },
     "dist": {
-        "shasum": "9c8fb6d0b58e174ed2db4c2f1f307c3e180c2438",
-        "tarball": "https://registry.npmjs.org/total.js/-/total.js-2.4.0.tgz"
+        "shasum": "1f19d37ab385949a632b77391e4ce24f600b6e4f",
+        "tarball": "https://registry.npmjs.org/total.js/-/total.js-2.5.0.tgz"
     },
     "engines": {
         "node": ">=4.0.0"
     },
-    "gitHead": "634ae47931184f61b593ef613bf04372afc142a3",
+    "gitHead": "ea6b41bec8ec0b61e09ca74878e98e04c28e0b45",
     "homepage": "http://www.totaljs.com",
     "keywords": [
         "total",
+        "iot",
         "framework",
         "web",
         "websocket",
@@ -148,7 +152,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "2.4.0"
+    "version": "2.5.0"
 }
 ```
 

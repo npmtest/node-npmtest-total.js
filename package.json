@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [total.js (v2.4.0)](http://www.totaljs.com) [![npm package](https://img.shields.io/npm/v/npmtest-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-total.js.svg)](https://travis-ci.org/npmtest/node-npmtest-total.js)",
+    "description": "#### basic test coverage for  [total.js (v2.5.0)](http://www.totaljs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-total.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-total.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-total.js.svg)](https://travis-ci.org/npmtest/node-npmtest-total.js)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "total.js": "*",
